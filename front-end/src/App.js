@@ -1,8 +1,6 @@
 import React from "react";
 
-import { AppBar } from "@mui/material";
 
-import { Typography } from "@mui/material";
 import { VideoPlayer } from "./components/VideoPlayer";
 import { Notifications } from "./components/Notifications";
 import { Options } from "./components/Options";
