@@ -9,11 +9,7 @@ export const VideoPlayer = () => {
     userVideo,
     stream,
     name,
-    setName,
     callEnded,
-    callUser,
-    leaveCall,
-    answerCall,
   } = useContext(SocketContext);
   return (
     <div>
